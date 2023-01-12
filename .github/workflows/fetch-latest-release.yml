@@ -61,7 +61,7 @@ jobs:
         id: uploadReleaseAsset
         uses: AButler/upload-release-assets@v2.0
         with:
-          files: 'assets/*.bin'
+          files: 'assets/*.uf2'
           repo-token: ${{ secrets.PUBLIC_RELEASE_TOKEN }}
           release-tag: "${{env.newRelease_tag_name}}"
       
