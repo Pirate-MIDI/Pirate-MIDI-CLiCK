@@ -1,7 +1,26 @@
+# CLiCK - The Smart MIDI Relay Interface
+The CLiCK is a tiny 1 in/1 out USB MIDI Interface & relay switcher for adding MIDI Control
+to amp channels, control ports, and other auxiliary controls on any kind of music or
+effects device.
+![image](Relay%20Switcher%20Top.png)
+
+The TRS ¼” jack has a relay for the Tip and a relay for the Ring, which means with a
+Split-Y cable, you can control 2 devices that use TS cables for external switch control.
+Some common favourites for the Click include:
+- Guitar amplifiers
+- Strymon Fave switch substitute
+- Delay pedals with tap tempo switch inputs
+- Pedals with external switch support (e.g. JHS Red Remote)
+- Pedal with aux switch inputs
+
+## Specifications
+-Dimensions: 70mm x 43mm x 22mm (2.7” x 1.7” x 0.86”)
+
+
 # Pirate MIDI Bug Tracking & Ideas voting and submission
 Forum for reporting bugs &amp; issues in Pirate MIDI devices - open for public contributions including new features ideas
 
-Public access beta firmware and community is available in our [Slack channel](https://join.slack.com/t/piratemidi/shared_invite/zt-18puulc2t-nElrkk3JVu1qwHsovK9iog).
+Public access beta firmware and community is available in our [Discord Server](https://discord.gg/5nTPg6Qpgj).
 
 ## Ideas and Feature Voting
 Click "Discussions" in the menu bar above to vote on, or add feature ideas. 
@@ -9,16 +28,13 @@ Click "Discussions" in the menu bar above to vote on, or add feature ideas.
 ## Bug Tracking
 Click "issues" and browse to make sure your issue is not already documented. Duplicated issues may be merged/removed.
 
-![image](https://user-images.githubusercontent.com/59382082/121623750-9d2f1f80-cab3-11eb-8a53-a752afbb7109.png)
-
+#add_image
 
 If your issue is already documented, you can add any new information to that thread as a comment. 
 
 If your issue is not documented, you can add a new issue
 
-
-![image](https://user-images.githubusercontent.com/59382082/121623926-ef704080-cab3-11eb-84a1-e617a3504597.png)
-
+#add_image
 
 Please use as much detail as possible including any screenshots or photos that may help us understand the issue. Please say whice device you are using (Bridge6 or Bridge4), as well as the firmware version (visible in "Menu>System").
 
