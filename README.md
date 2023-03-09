@@ -2,7 +2,6 @@
 The CLiCK is a tiny 1 in/1 out USB MIDI Interface & relay switcher for adding MIDI Control
 to amp channels, control ports, and other auxiliary controls on any kind of music or
 effects device.
-![image](Relay%20Switcher%20Top.png)
 
 The TRS ¼” jack has a relay for the Tip and a relay for the Ring, which means with a
 Split-Y cable, you can control 2 devices that use TS cables for external switch control.
@@ -13,9 +12,8 @@ Some common favourites for the Click include:
 - Pedals with external switch support (e.g. JHS Red Remote)
 - Pedal with aux switch inputs
 
-## Specifications
+## Specifications:
 -Dimensions: 70mm x 43mm x 22mm (2.7” x 1.7” x 0.86”)
-
 
 # Pirate MIDI Bug Tracking & Ideas voting and submission
 Forum for reporting bugs &amp; issues in Pirate MIDI devices - open for public contributions including new features ideas
