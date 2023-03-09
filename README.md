@@ -26,14 +26,14 @@ Click "Discussions" in the menu bar above to vote on, or add feature ideas.
 ## Bug Tracking
 Click "issues" and browse to make sure your issue is not already documented. Duplicated issues may be merged/removed.
 
-#add_image
+
 
 If your issue is already documented, you can add any new information to that thread as a comment. 
 
 If your issue is not documented, you can add a new issue
 
-#add_image
 
-Please use as much detail as possible including any screenshots or photos that may help us understand the issue. Please say whice device you are using (Bridge6 or Bridge4), as well as the firmware version (visible in "Menu>System").
+
+Please use as much detail as possible including any screenshots or photos that may help us understand the issue. Please include the firmware version. 
 
 Simon and Sam will be able to interact with your comments and clarify for more information. 
